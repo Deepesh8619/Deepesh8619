@@ -1,40 +1,15 @@
-💫 About Me:
-Hi there 👋 I’m Deepesh Sharma
-
-I’m a Data Analyst with 4+ years of experience turning messy data into clear business decisions.
-
-I work across SQL, Python, Power BI, Excel, dashboards, KPI frameworks, automation, experimentation, and data quality, with a strong interest in product analytics, analytics engineering, and AI-driven problem solving.
-
-I enjoy solving ambiguous business problems, building data workflows that save time, and creating insights that actually influence decisions.
-
-### What I work on
-- 📊 Product & business analytics
-- 🐍 Python automation and data processing
-- 🧠 SQL-based analysis and KPI modeling
-- 📈 Dashboards and stakeholder reporting
-- ⚙️ Data quality, validation, and reporting automation
-- 🤖 AI-assisted analytics and workflow improvement
-
-### Currently exploring
-- dbt & analytics engineering
-- A/B testing and experimentation
-- BigQuery / modern data stack concepts
-- LLM-powered analytics workflows
-- Applied AI use cases in business operations
-
-### Background
-- MSc in Data Science — IU International University of Applied Sciences, Berlin
-- 4+ years of analytics experience across reporting, automation, dashboarding, KPI design, and operational insights
-
-### Let’s connect
-- 💼 LinkedIn: Deepesh Sharma
-💻 Tech Stack:
-Python AWS Google Cloud Vercel MicrosoftSQLServer Postgres MySQL SQLite Supabase Keras Matplotlib NumPy Scipy Pandas Plotly PyTorch scikit-learn TensorFlow Power Bi
-
-📊 GitHub Stats:
+# 💫 About Me:
+## Hi there 👋 I'm Deepesh Sharma<br><br>I'm a Data Analyst with 4+ years of experience turning messy data into clear business decisions.<br><br>I work across **SQL, Python, Power BI, Excel, dashboards, KPI frameworks, automation, experimentation, and data quality**, with a strong interest in **product analytics, analytics engineering, and AI-driven problem solving**.<br><br>I enjoy solving ambiguous business problems, building data workflows that save time, and creating insights that actually influence decisions.<br><br>### What I work on<br>- 📊 Product & business analytics<br>- 🐍 Python automation and data processing<br>- 🧠 SQL-based analysis and KPI modeling<br>- 📈 Dashboards and stakeholder reporting<br>- ⚙️ Data quality, validation, and reporting automation<br>- 🤖 AI-assisted analytics and workflow improvement<br><br>### Currently exploring<br>- dbt & analytics engineering<br>- A/B testing and experimentation<br>- BigQuery / modern data stack concepts<br>- LLM-powered analytics workflows<br>- Applied AI use cases in business operations<br><br>### Background<br>- MSc in Data Science — IU International University of Applied Sciences, Berlin<br>- 4+ years of analytics experience across reporting, automation, dashboarding, KPI design, and operational insights<br><br>### Let’s connect<br>- 💼 LinkedIn: [Deepesh Sharma](https://www.linkedin.com/in/deepesh-sharma-8619sharma/)
 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Deepesh8619&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Deepesh8619&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepesh8619&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Deepesh8619&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
